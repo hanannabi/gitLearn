@@ -1,1 +1,2 @@
 add code to master file
+pink mode code added in master file
