@@ -3,3 +3,4 @@ pink mode code added in master file
 add 3rd line
 add 4th line
 5th line
+6th line
